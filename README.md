@@ -2,6 +2,8 @@
 
 The open-source AI chat app for everyone.
 
+
+
 <img src="./public/readme/screenshot.png" alt="Chatbot UI" width="600">
 
 ## Demo
