@@ -18,7 +18,6 @@ Be back soon.
 
 -- Mckay
 
-
 ## Official Hosted Version
 
 Use Chatbot UI without having to host it yourself!
